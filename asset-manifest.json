@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ZVSTROY/static/css/main.4f0b2e48.css",
-    "main.js": "/ZVSTROY/static/js/main.9f12d12b.js",
-    "static/js/787.c7a46086.chunk.js": "/ZVSTROY/static/js/787.c7a46086.chunk.js",
-    "static/media/main-_2_.png": "/ZVSTROY/static/media/main-_2_.d1af9c93033d84891a50.png",
-    "static/media/logo.svg": "/ZVSTROY/static/media/logo.3c5c8ca53e3a22a1018a52f88a888a18.svg",
-    "static/media/mail.svg": "/ZVSTROY/static/media/mail.46b0c678e35c57add5f801f4f1544715.svg",
-    "static/media/phone.svg": "/ZVSTROY/static/media/phone.21c64c79da66e796636ca735b5606ead.svg",
-    "static/media/viber.svg": "/ZVSTROY/static/media/viber.afdde496aaa27d36c80d2114f65b3b65.svg",
-    "static/media/whatsapp.svg": "/ZVSTROY/static/media/whatsapp.7dc3f3267bee9b39fd8d08466208e48a.svg",
-    "static/media/россия.svg": "/ZVSTROY/static/media/россия.4b7a9a9d8ecd15e9143dbbbdcc1aa72a.svg",
-    "index.html": "/ZVSTROY/index.html",
-    "main.4f0b2e48.css.map": "/ZVSTROY/static/css/main.4f0b2e48.css.map",
-    "main.9f12d12b.js.map": "/ZVSTROY/static/js/main.9f12d12b.js.map",
-    "787.c7a46086.chunk.js.map": "/ZVSTROY/static/js/787.c7a46086.chunk.js.map"
+    "main.css": "/zvstroy/static/css/main.56ba79f7.css",
+    "main.js": "/zvstroy/static/js/main.70f76f9f.js",
+    "static/js/787.c7a46086.chunk.js": "/zvstroy/static/js/787.c7a46086.chunk.js",
+    "static/media/main-_2_.png": "/zvstroy/static/media/main-_2_.d1af9c93033d84891a50.png",
+    "static/media/logo.svg": "/zvstroy/static/media/logo.3c5c8ca53e3a22a1018a52f88a888a18.svg",
+    "static/media/mail.svg": "/zvstroy/static/media/mail.46b0c678e35c57add5f801f4f1544715.svg",
+    "static/media/phone.svg": "/zvstroy/static/media/phone.21c64c79da66e796636ca735b5606ead.svg",
+    "static/media/viber.svg": "/zvstroy/static/media/viber.afdde496aaa27d36c80d2114f65b3b65.svg",
+    "static/media/whatsapp.svg": "/zvstroy/static/media/whatsapp.7dc3f3267bee9b39fd8d08466208e48a.svg",
+    "static/media/россия.svg": "/zvstroy/static/media/россия.4b7a9a9d8ecd15e9143dbbbdcc1aa72a.svg",
+    "index.html": "/zvstroy/index.html",
+    "main.56ba79f7.css.map": "/zvstroy/static/css/main.56ba79f7.css.map",
+    "main.70f76f9f.js.map": "/zvstroy/static/js/main.70f76f9f.js.map",
+    "787.c7a46086.chunk.js.map": "/zvstroy/static/js/787.c7a46086.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f0b2e48.css",
-    "static/js/main.9f12d12b.js"
+    "static/css/main.56ba79f7.css",
+    "static/js/main.70f76f9f.js"
   ]
 }
